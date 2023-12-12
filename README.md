@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend technologies to become a Fullstack Web Developer
 - 💞️ I would love to offer any kind of help necessary for your projects
-- 📫 How to reach me ...
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/laurentiu-malai-58a94517b/
 
 <!---
 Boriska420/Boriska420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
